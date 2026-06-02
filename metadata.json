@@ -1,0 +1,6 @@
+{
+  "name": "Dragon Ball Universe",
+  "description": "The ultimate Dragon Ball Anime and Manga application showcasing all series, movies, specials, and manga chapters in a stunning responsive layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
